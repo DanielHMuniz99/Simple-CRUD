@@ -32,7 +32,7 @@ php artisan db:seed --class=CategorySeeder
 php artisan db:seed --class=UserSeeder
 ```
 
-Generate the Key
+Run the command to generate the key
 ```
 php artisan key:generate
 ```
