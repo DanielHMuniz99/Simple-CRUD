@@ -32,6 +32,11 @@ php artisan db:seed --class=CategorySeeder
 php artisan db:seed --class=UserSeeder
 ```
 
+Generate the Key
+```
+php artisan key:generate
+```
+
 ## Run server
 
 Run server using this command-
